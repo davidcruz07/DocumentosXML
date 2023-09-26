@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE resultados SYSTEM "Documento.dtd">
+
+<resultados>
+
+    <fecha>23 de Septiembre, 2023</fecha>
+
+    <partido>
+
+        <equipos>
+
+            <local>Tigres UANL</local>
+            <visitante>Monterrey</visitante>
+
+        </equipos>
+
+        <marcadorFinal>3-0</marcadorFinal>
+
+        <anotadores>
+
+            <anotador>
+
+                <jugador>André-Pierre Gignac</jugador>
+                <minuto>29</minuto>
+
+            </anotador>
+
+            <anotador>
+
+                <jugador>André-Pierre Gignac</jugador>
+                <minuto>59</minuto>
+
+            </anotador>
+
+            <anotador>
+
+                <jugador>Diego Lainez</jugador>
+                <minuto>71</minuto>
+
+            </anotador>
+
+
+        </anotadores>
+
+    </partido>
+
+</resultados>
+
+

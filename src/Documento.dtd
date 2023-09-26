@@ -1,0 +1,15 @@
+<!DOCTYPE resultados [
+        <!ELEMENT resultados (fecha|partido)*>
+        <!ELEMENT fecha (#PCDATA)>
+        <!ELEMENT partido (equipos|marcadorFinal|anotadores)*>
+        <!ELEMENT equipos (local|visitante)*>
+        <!ELEMENT local (#PCDATA)>
+        <!ELEMENT visitante (#PCDATA)>
+        <!ELEMENT marcadorFinal (#PCDATA)>
+        <!ELEMENT anotadores (anotador)*>
+        <!ELEMENT anotador (jugador|minuto)*>
+        <!ELEMENT jugador (#PCDATA)>
+        <!ELEMENT minuto (#PCDATA)>
+        ]>
+
+
